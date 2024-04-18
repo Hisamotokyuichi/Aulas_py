@@ -1,0 +1,11 @@
+
+
+
+conjunro_a = {1,2,7}
+conjunro_b = {3,4,9}
+
+resultado = conjunro_a.difference(conjunro_b)
+resultado = conjunro_b.difference(conjunro_a)
+
+print(resultado)
+
